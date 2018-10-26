@@ -1,0 +1,12 @@
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\bin\Debug\netcoreapp2.0\interTrabalho.deps.json
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\bin\Debug\netcoreapp2.0\interTrabalho.runtimeconfig.json
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\bin\Debug\netcoreapp2.0\interTrabalho.runtimeconfig.dev.json
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\bin\Debug\netcoreapp2.0\interTrabalho.dll
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\bin\Debug\netcoreapp2.0\interTrabalho.pdb
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\obj\Debug\netcoreapp2.0\interTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\obj\Debug\netcoreapp2.0\interTrabalho.AssemblyInfoInputs.cache
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\obj\Debug\netcoreapp2.0\interTrabalho.AssemblyInfo.cs
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\obj\Debug\netcoreapp2.0\interTrabalho.dll
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\obj\Debug\netcoreapp2.0\interTrabalho.pdb
+C:\Users\opet\source\repos\interTrabalho\interTrabalho\obj\Debug\netcoreapp2.0\interTrabalho.csprojResolveAssemblyReference.cache
